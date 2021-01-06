@@ -16,5 +16,7 @@ table.tabla3{
    }
 td.verde{
     border: green 1px solid;
-
+    height: 10px;
+    width: 200px;
+    text-align: center;
    }
